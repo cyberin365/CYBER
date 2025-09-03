@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "test.md",
+                "file": "1. Messer Net+.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "test"
+              "title": "1. Messer Net+"
             }
           }
         ]
@@ -58,7 +58,7 @@
       {
         "id": "dc57ed4c6075790b",
         "type": "tabs",
-        "dimension": 61.1528822055138,
+        "dimension": 61.15288220551379,
         "children": [
           {
             "id": "91865563462f9bc2",
@@ -72,13 +72,76 @@
               "icon": "lucide-folder-closed",
               "title": "Files"
             }
+          },
+          {
+            "id": "5573e41f8f120569",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1. Messer Net+.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 1. Messer Net+"
+            }
+          },
+          {
+            "id": "7763de223c39daef",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "1. Messer Net+.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 1. Messer Net+"
+            }
+          },
+          {
+            "id": "1e89ec5faa216bb0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "2cdb282cdde02856",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1. Messer Net+.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 1. Messer Net+"
+            }
           }
         ]
       },
       {
         "id": "9c7f934afb22a227",
         "type": "tabs",
-        "dimension": 38.847117794486216,
+        "dimension": 38.84711779448621,
         "children": [
           {
             "id": "ef6be5453a4d193a",
@@ -86,7 +149,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "deposit",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -101,7 +164,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 279.5
+    "width": 206.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -116,10 +179,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "eb065004ac61234d",
+  "active": "ef6be5453a4d193a",
   "lastOpenFiles": [
-    "1. Messer Net+.md",
     "test.md",
+    "hotkeys.json",
+    "1. Messer Net+.md",
     "CYBER/1. Messer Net+.md",
     "CYBER",
     "CYBER/attachments/Pasted image 20250901200247.png",
@@ -157,9 +221,7 @@
     "ARCHIVE/CODING OLD/2025 OLD/6. A+.md",
     "ARCHIVE/CODING OLD/2025 OLD/5. VirtualBox.md",
     "ARCHIVE/CODING OLD/2025 OLD/4. Docker.md",
-    "ARCHIVE/CODING OLD/2025 OLD/3. Git.md",
     "ARCHIVE/CODING OLD/2025 OLD",
-    "CYBER/Untitled",
     "ARCHIVE/CODING OLD/attachments/image-42.png",
     "attachments/image-151.png",
     "attachments/image-150.png",
