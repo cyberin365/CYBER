@@ -1,0 +1,257 @@
+body{
+	--file-margins: 20px;
+--line-height-normal: 1.3em;
+--list-spacing: 0em;
+--h1-size: 2.5em;
+/* --h1-line-height: 1.25em;
+--h1-size: 1.25em;
+--h1-weight: 500;
+--h1-font: "Georgia";
+--h1-color: #e6a23c;
+--h2-line-height: 1.25em;
+--h2-size: 1.25em;
+--h2-weight: 400;
+--h2-font: "Georgia";
+--h2-color: #0a87db;
+--h3-line-height: 1.25em;
+--h3-size: 1.25em;
+--h3-weight: 400;
+--h3-font: "Georgia";
+--h3-color: #cc3333;
+--h4-line-height: 1.25em;
+--h4-size: 1.25em;
+--h4-weight: 400;
+--h4-font: "Georgia";
+--h4-color: #368759; */
+--bold-weight: 650;
+--text-normal: rgb(190,190,190); 
+/* originally 218,218,218 */
+--nav-item-padding: 1px 2px;
+/* originally 4x 8px  */
+--blockquote-style: italic;
+--blockquote-border-color: rgb(125, 125, 125);
+}
+
+.workspace-split.mod-horizontal.mod-left-split {
+	width: 220px !important;
+}
+/* .workspace-split.mod-horizontal.mod-right-split {
+	width: 170px !important;
+} */
+.workspace-ribbon {
+	display: none;
+}
+
+/* next 4 make the starred panel permanently at the bottom and take up less space */
+/* .workspace-tabs:nth-child(5) {
+	flex-grow: 10 !important;
+}
+.workspace-tabs:nth-child(5)  .workspace-tab-header-container{
+	display: none;
+}
+.workspace-tabs:nth-child(5) .workspace-tab-container .workspace-leaf {
+	padding-top: 12px;
+} */
+
+.inline-title{
+	display: none;
+}
+
+.cm-hmd-codeblock .cm-indent::before , .HyperMD-codeblock .cm-indent::before{
+	display:none !important;
+	visibility: none;
+}
+
+.workspace-leaf-content .view-content {
+	padding: 0px;
+}
+
+.nav.svelte-1vwr9dd.svelte-1vwr9dd {
+	padding: 5px 0px 5px 30px !important;
+	margin: 0px !important;
+}
+
+.right-nav.svelte-1vwr9dd.svelte-1vwr9dd { 
+	margin-left: 0px !important;
+	padding-left: 10px;
+}
+
+.title.svelte-1vwr9dd.svelte-1vwr9dd{
+	font-size: 1em!important;
+	padding-left: 5px !important;
+}
+
+#calendar-container{
+	padding-top: 20px;
+	padding-left: 15px;
+	transform: scale(.9);
+	transform-origin: left top;
+	margin-left: 0px;
+	width: 200px;
+
+}
+
+#calendar-container {
+	height: 200px !important;
+}
+
+/* some buttons i dont need*/
+.nav-header{
+	display: none;
+}
+.nav-files-container {
+	padding: 4px 4px 4px 4px;
+}
+.nav-files-container * {
+	font-size: 12px !important;
+}
+.nav-folder-title{
+	margin: 0px;
+}
+
+.cm-s-obsidian span.cm-quote{
+	font-family: 'Georgia';
+	color: rgb(125,125,125);
+}
+
+b, strong, .cm-strong {
+	font-size: 14px;
+	color: rgb(240,240,240);
+}
+
+
+
+.markdown-source-view.mod-cm6 .cm-line.HyperMD-codeblock{
+	padding-left: 0px;
+	/* background-clip: content-box; */
+	/* width: 70%; */
+}
+
+.markdown-source-view.mod-cm6 .cm-active-indent::before {
+	border-color: var(--indentation-guide-color);
+}
+
+.cm-s-obsidian span.cm-inline-code {
+	background-color: rgb(50,50,50) !important;
+}
+
+/* get rid of left toolbar with buttons you never use */
+/* hide the left sidebar, and reclaim the space it was occupying */
+.workspace-ribbon.mod-left {width:0px !important;}
+
+
+
+/* quiet outline plugin components which I don't use */
+.n-slider--with-mark{
+	display: none;
+}
+.quiet-outline .function-bar{
+	display:none;
+}
+
+/* make right panel always my to-do list */
+/* .mod-top-right-space .HyperMD-list-line {
+	font-size: var(--font-text-size);
+}
+
+.mod-top-right-space .HyperMD-header {
+	font-size: 16px;
+}
+
+.mod-top-right-space .cm-scroller {
+	padding-left: 16px !important;
+	padding-top: 8px !important;
+} */
+
+/* hide attachements folder */
+div[data-path='attachments'], 
+div[data-path='attachments'] + div.nav-folder-children 
+{
+    display: none;
+}
+
+/* make all bullet collapse carets always visible
+.markdown-source-view.mod-cm6 .cm-fold-indicator .collapse-indicator {
+ opacity: 1
+}
+/* move caret a little closer to the bullet */
+/* .markdown-source-view.mod-cm6 .cm-line:not(.cm-active):not(.HyperMD-header):not(.HyperMD-task-line) .cm-fold-indicator .collapse-indicator{
+	padding-right: 0em;
+}
+.markdown-source-view.mod-cm6 .cm-fold-indicator .collapse-indicator{
+	padding-right: .35em;
+} */ 
+
+
+
+/* bold is yellow */
+b, strong, .cm-strong {
+	font-size: var(--font-text-size) !important;
+	color: #e6a23c !important;
+	font-weight: var(--bold-weight);
+}
+
+/*italics is blue */
+i, em, .cm-em {
+	font-style:normal;
+	color: #0a87db;
+}
+
+
+
+/* highlight is red
+span.cm-highlight {
+	background-color: transparent !important;
+	color: #cc3333 !important;
+	font-weight: var(--bold-weight);
+}
+*/
+span.cm-link {
+	color: #1d7d47 !important;
+}
+
+
+
+/* dont want white space on top and bottom in code blocks */
+
+/* .HyperMD-codeblock-begin, .HyperMD-codeblock-end{
+	display: none !important;
+} */
+
+
+/* search results has a lot of dead space */
+.search-result-container{
+	padding: 3px;
+}
+.search-result-file-match{
+	padding: 4px;
+}
+.search-result-file-title{
+	display: none;
+}
+
+/* Hide table drag handles to remove extra vertical space in Reading mode */
+.table-col-drag-handle,
+.table-row-drag-handle {
+    display: none;
+}
+
+.cm-table-widget {
+    padding: 0px !important;
+    padding-left: 10px !important;
+}
+
+.search-result-file-match {
+    white-space: normal !important;
+    overflow: visible !important;
+    text-overflow: unset !important;
+}
+
+.table-editor thead th {
+  font-weight: normal;
+}
+
+/* Prevents color changes for bracketed text in Live Preview/Source Mode */
+.cm-hmd-barelink.cm-link {
+  color: var(--text-normal) !important;
+}
