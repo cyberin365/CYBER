@@ -7,5 +7,6 @@
   "attachmentFolderPath": "attachments",
   "promptDelete": false,
   "alwaysUpdateLinks": true,
-  "spellcheck": false
+  "spellcheck": false,
+  "showInlineTitle": false
 }

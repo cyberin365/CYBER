@@ -6,5 +6,6 @@
   "showViewHeader": false,
   "baseFontSize": 14,
   "theme": "obsidian",
-  "cssTheme": ""
+  "cssTheme": "",
+  "showRibbon": true
 }
