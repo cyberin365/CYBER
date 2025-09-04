@@ -9,5 +9,6 @@
   "alwaysUpdateLinks": true,
   "spellcheck": false,
   "showInlineTitle": false,
-  "useMarkdownLinks": true
+  "useMarkdownLinks": true,
+  "newLinkFormat": "absolute"
 }
