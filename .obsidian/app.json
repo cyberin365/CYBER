@@ -8,5 +8,6 @@
   "promptDelete": false,
   "alwaysUpdateLinks": true,
   "spellcheck": false,
-  "showInlineTitle": false
+  "showInlineTitle": false,
+  "useMarkdownLinks": true
 }
