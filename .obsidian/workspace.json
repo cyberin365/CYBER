@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Messer Net+.md",
+                "file": "1. Net+ (Messer videos).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Messer Net+"
+              "title": "1. Net+ (Messer videos)"
             }
           }
         ]
@@ -164,7 +164,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 206.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,7 +179,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "eb065004ac61234d",
+  "active": "91865563462f9bc2",
   "lastOpenFiles": [
     "attachments/image-8.png",
     "attachments/image-7.png",
@@ -192,7 +192,7 @@
     "attachments/image-3.png",
     "test.md",
     "hotkeys.json",
-    "1. Messer Net+.md",
+    "1. Net+ (Messer videos).md",
     "CYBER/1. Messer Net+.md",
     "CYBER",
     "CYBER/attachments/Pasted image 20250901200247.png",
