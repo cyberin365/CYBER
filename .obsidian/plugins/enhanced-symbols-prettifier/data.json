@@ -69,13 +69,14 @@
       "value": "1️⃣",
       "group": "Numbers",
       "disabled": false,
-      "count": 1
+      "count": 3
     },
     "(2)": {
       "replaced": "(2)",
       "value": "2️⃣",
       "group": "Numbers",
-      "disabled": false
+      "disabled": false,
+      "count": 2
     },
     "(3)": {
       "replaced": "(3)",
