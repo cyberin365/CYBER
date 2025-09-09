@@ -5,13 +5,14 @@
       "value": "→",
       "group": "Arrows",
       "disabled": false,
-      "count": 3
+      "count": 9
     },
     "<-": {
       "replaced": "<-",
       "value": "←",
       "group": "Arrows",
-      "disabled": false
+      "disabled": false,
+      "count": 1
     },
     "<->": {
       "replaced": "<->",
