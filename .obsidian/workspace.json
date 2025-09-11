@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -208,10 +208,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f17dafa07565b11c",
+  "active": "322ef3ad34e4ddb1",
   "lastOpenFiles": [
-    "2. Net+ (Ramdayal Exams).md",
     "3. Net+ (Flashcards).md",
+    "2. Net+ (Ramdayal Exams).md",
     "1. Net+ (Messer videos).md",
     "attachments/image-11.png",
     "attachments/image-10.png",
