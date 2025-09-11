@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "1. Net+ (Messer videos)"
             }
+          },
+          {
+            "id": "322ef3ad34e4ddb1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Net+ (Ramdayal Exams).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2. Net+ (Ramdayal Exams)"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -178,45 +193,6 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-git:Open Git source control": false
     }
-  },
-  "floating": {
-    "id": "8108b3c6aaf8ec57",
-    "type": "floating",
-    "children": [
-      {
-        "id": "d4a578ead3fd3faa",
-        "type": "window",
-        "children": [
-          {
-            "id": "321d984e32a01a37",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "322ef3ad34e4ddb1",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "2. Net+ (Ramdayal Exams).md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "2. Net+ (Ramdayal Exams)"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 856,
-        "y": 0,
-        "width": 856,
-        "height": 963,
-        "maximize": false,
-        "zoom": -1
-      }
-    ]
   },
   "active": "322ef3ad34e4ddb1",
   "lastOpenFiles": [
