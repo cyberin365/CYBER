@@ -5,7 +5,7 @@
       "value": "→",
       "group": "Arrows",
       "disabled": false,
-      "count": 14
+      "count": 16
     },
     "<-": {
       "replaced": "<-",
@@ -71,38 +71,42 @@
       "value": "1️⃣",
       "group": "Numbers",
       "disabled": false,
-      "count": 3
+      "count": 11
     },
     "(2)": {
       "replaced": "(2)",
       "value": "2️⃣",
       "group": "Numbers",
       "disabled": false,
-      "count": 2
+      "count": 7
     },
     "(3)": {
       "replaced": "(3)",
       "value": "3️⃣",
       "group": "Numbers",
-      "disabled": false
+      "disabled": false,
+      "count": 4
     },
     "(4)": {
       "replaced": "(4)",
       "value": "4️⃣",
       "group": "Numbers",
-      "disabled": false
+      "disabled": false,
+      "count": 4
     },
     "(5)": {
       "replaced": "(5)",
       "value": "5️⃣",
       "group": "Numbers",
-      "disabled": false
+      "disabled": false,
+      "count": 1
     },
     "(6)": {
       "replaced": "(6)",
       "value": "6️⃣",
       "group": "Numbers",
-      "disabled": false
+      "disabled": false,
+      "count": 1
     },
     "(7)": {
       "replaced": "(7)",
