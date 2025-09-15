@@ -5,7 +5,7 @@
       "value": "→",
       "group": "Arrows",
       "disabled": false,
-      "count": 16
+      "count": 20
     },
     "<-": {
       "replaced": "<-",
@@ -70,73 +70,74 @@
       "replaced": "(1)",
       "value": "1️⃣",
       "group": "Numbers",
-      "disabled": false,
+      "disabled": true,
       "count": 11
     },
     "(2)": {
       "replaced": "(2)",
       "value": "2️⃣",
       "group": "Numbers",
-      "disabled": false,
+      "disabled": true,
       "count": 7
     },
     "(3)": {
       "replaced": "(3)",
       "value": "3️⃣",
       "group": "Numbers",
-      "disabled": false,
+      "disabled": true,
       "count": 4
     },
     "(4)": {
       "replaced": "(4)",
       "value": "4️⃣",
       "group": "Numbers",
-      "disabled": false,
+      "disabled": true,
       "count": 4
     },
     "(5)": {
       "replaced": "(5)",
       "value": "5️⃣",
       "group": "Numbers",
-      "disabled": false,
+      "disabled": true,
       "count": 1
     },
     "(6)": {
       "replaced": "(6)",
       "value": "6️⃣",
       "group": "Numbers",
-      "disabled": false,
+      "disabled": true,
       "count": 1
     },
     "(7)": {
       "replaced": "(7)",
       "value": "7️⃣",
       "group": "Numbers",
-      "disabled": false
+      "disabled": true
     },
     "(8)": {
       "replaced": "(8)",
       "value": "8️⃣",
       "group": "Numbers",
-      "disabled": false
+      "disabled": true
     },
     "(9)": {
       "replaced": "(9)",
       "value": "9️⃣",
       "group": "Numbers",
-      "disabled": false
+      "disabled": true
     },
     "(10)": {
       "replaced": "(10)",
       "value": "🔟",
       "group": "Numbers",
-      "disabled": false
+      "disabled": true
     },
     "(0)": {
       "replaced": "(0)",
       "value": "0️⃣",
       "group": "Numbers",
-      "disabled": false
+      "disabled": true,
+      "count": 1
     },
     "w/": {
       "replaced": "w/",

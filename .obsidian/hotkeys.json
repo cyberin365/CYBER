@@ -34,5 +34,13 @@
       ],
       "key": "E"
     }
+  ],
+  "workspace:split-vertical": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "End"
+    }
   ]
 }
