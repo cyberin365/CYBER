@@ -255,3 +255,8 @@ span.cm-link {
 .cm-hmd-barelink.cm-link {
   color: var(--text-normal) !important;
 }
+
+.cm-table-widget {
+padding-top: 0px !important;
+padding-bottom: 0px !important;
+}

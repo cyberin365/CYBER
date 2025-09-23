@@ -5,7 +5,7 @@
       "value": "→",
       "group": "Arrows",
       "disabled": false,
-      "count": 25
+      "count": 29
     },
     "<-": {
       "replaced": "<-",
@@ -18,7 +18,7 @@
       "replaced": "<->",
       "value": "↔",
       "group": "Arrows",
-      "count": 5
+      "count": 8
     },
     "<=>": {
       "replaced": "<=>",
@@ -295,6 +295,13 @@
       "replaced": "<=",
       "value": "⇐",
       "group": "Arrows"
+    },
+    "\\subset": {
+      "replaced": "\\subset",
+      "value": "⊆",
+      "disabled": false,
+      "group": "Arrows",
+      "count": 5
     }
   },
   "exclusions": [],
